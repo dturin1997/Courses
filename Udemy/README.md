@@ -27,3 +27,5 @@
 ### 008. Cisco CCNA 200-301 – The Complete Guide to Getting Certified
 
 ### 009. Unity C# Mobile Game Development: Make 3 Games From Scratch
+
+### 010. NextJS E-Com Masterclass: Learn The All New Next JS!
