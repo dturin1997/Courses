@@ -1,6 +1,3 @@
-[submodule "Udemy/002/010"]
-	path = Udemy/002/010
-	url = git@github.com:dturin1997/NextJS-E-Com-Masterclass-Learn-The-All-New-Next-JS.git
 [submodule "Udemy/010"]
 	path = Udemy/010
 	url = git@github.com:dturin1997/NextJS-E-Com-Masterclass-Learn-The-All-New-Next-JS.git
