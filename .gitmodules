@@ -1,3 +1,6 @@
 [submodule "Udemy/010"]
 	path = Udemy/010
 	url = git@github.com:dturin1997/NextJS-E-Com-Masterclass-Learn-The-All-New-Next-JS.git
+[submodule "Udemy/009"]
+	path = Udemy/009
+	url = git@github.com:dturin1997/Unity-C-Mobile-Game-Development-Make-3-Games-From-Scratch.git
