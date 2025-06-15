@@ -29,3 +29,5 @@
 ### 009. Unity C# Mobile Game Development: Make 3 Games From Scratch
 
 ### 010. NextJS E-Com Masterclass: Learn The All New Next JS!
+
+### 011. Angular and ASP.NET Core REST API - Real World Application

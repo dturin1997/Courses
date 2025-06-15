@@ -7,3 +7,6 @@
 [submodule "Udemy/003"]
 	path = Udemy/003
 	url = git@github.com:dturin1997/JavaScript-and-Ruby-on-Rails-with-React-Angular-and-Vue.git
+[submodule "Udemy/011"]
+	path = Udemy/011
+	url = git@github.com:dturin1997/Angular-and-ASP.NET-Core-REST-API---Real-World-Application.git
