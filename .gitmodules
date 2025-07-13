@@ -10,3 +10,6 @@
 [submodule "Udemy/011"]
 	path = Udemy/011
 	url = git@github.com:dturin1997/Angular-and-ASP.NET-Core-REST-API---Real-World-Application.git
+[submodule "Udemy/012"]
+	path = Udemy/012
+	url = git@github.com:dturin1997/Kotlin-and-Jetpack-Compose---Master-Hilt-Dagger-Room-DB-ViewModel-Navigation-Clean-Architecture.git
