@@ -35,3 +35,5 @@
 ### 012. Kotlin and Jetpack Compose - Master Hilt & Dagger, Room DB, ViewModel, Navigation & Clean Architecture
 
 ### 013. Complete C# Masterclass
+
+### 014. 15 Days of SQL: The Complete SQL Masterclass 2025
