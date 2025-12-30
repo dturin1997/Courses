@@ -13,3 +13,6 @@
 [submodule "Udemy/012"]
 	path = Udemy/012
 	url = git@github.com:dturin1997/Kotlin-and-Jetpack-Compose---Master-Hilt-Dagger-Room-DB-ViewModel-Navigation-Clean-Architecture.git
+[submodule "Udemy/013"]
+	path = Udemy/013
+	url = git@github.com:dturin1997/Complete-C-Masterclass.git
