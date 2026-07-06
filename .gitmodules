@@ -19,3 +19,6 @@
 [submodule "Udemy/014"]
 	path = Udemy/014
 	url = git@github.com:dturin1997/15-Days-of-SQL-The-Complete-SQL-Masterclass-2025.git
+[submodule "Udemy/015"]
+	path = Udemy/015
+	url = git@github.com:dturin1997/djturin.dev-portfolio.git
